@@ -4,10 +4,8 @@
 <ul>
 <li><h3>Main Stack</h3></li>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&
-logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/ros2-22314E?style=for-the-badge&
-logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/ros2-22314E?style=for-the-badge&logo=ros&logoColor=white">
 
 <li><h3>BOJ</h3></li>
 
