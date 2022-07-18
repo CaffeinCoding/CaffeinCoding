@@ -1,6 +1,6 @@
 <div><h2> Stack </h2></div>
 <hr/>
-<span>
+<div>
 <ul>
 <li><h3>Main Stack</h3></li>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -15,7 +15,7 @@ logo=ros&logoColor=white">
 jintea519](http://mazassumnida.wtf/api/mini/generate_badge?boj=jintea519)](https://solved.ac/jintea519)
 
 </ul>
-</span>
+</div>
 
 <!--
 **too519/too519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
