@@ -2,7 +2,6 @@
 
 <div>
 <h2>Stacks</h2>
-<hr/>
 <br/>
 <h3>MAIN</h3>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
